@@ -1,16 +1,50 @@
-# React + Vite
+# IELTS Institute Home Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **modern and responsive Home Page** for a fictional IELTS Institute, developed using **React JS** and **Tailwind CSS**. The goal is to showcase a professional, clean, and user-friendly design suitable for an online education platform focusing on IELTS preparation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- **Responsive Design:** Works seamlessly across desktop, tablet, and mobile devices.
+- **Navbar:** Fixed navigation bar with smooth scrolling links. Hamburger menu for mobile view.
+- **Hero Section:** Eye-catching carousel banner with registration form for IELTS exam booking.
+- **Highlights Section:** Four cards showcasing key advantages of IELTS: Trusted, Popular, Recognized, and Flexible.
+- **Features Section:** Three main service offerings: Book IELTS Test, IELTS Preparation, and Check Your Results. Cards are interactive with hover effects and clickable links.
+- **Student Reviews:** Testimonials from students with star ratings, hover animations, and engaging layout.
+- **Destinations Section:** Shows where IELTS can take students globally with country images.
+- **Footer:** Contains essential links and contact information.
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Design Choices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Clean & Modern UI:** Subtle shadows, rounded corners, and hover transitions create a professional look.
+- **Interactive Elements:** Hover animations, clickable cards, and star ratings make the interface engaging.
+- **Tailwind CSS:** Used for rapid styling and responsive design without writing complex CSS.
+- **React Components:** Structured into reusable components for scalability and maintainability.
+
+---
+
+## Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone <your-repo-link>
+Navigate to the project directory:
+
+bash
+Copy code
+cd ielts-homepage
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+Open the app:
+Visit http://localhost:3000 in your browser.
