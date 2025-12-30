@@ -30,7 +30,7 @@ This project is a **modern and responsive Home Page** for a fictional IELTS Inst
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/chandanpalariya/IELETS-Home-page.git>
 Navigate to the project directory:
 
 bash
